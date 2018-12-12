@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f0e0a99-c85e-46e5-9e17-7ab17a928097" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iris_flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomslee_airbnb_brno_0632_2016-10-31.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomslee_airbnb_brno_0634_2016-11-05.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomslee_airbnb_brno_0953_2017-03-10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomslee_airbnb_brno_1099_2017-04-12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomslee_airbnb_brno_1258_2017-05-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomslee_airbnb_brno_1383_2017-06-24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomslee_airbnb_new_york_1196_2017-05-06.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomslee_airbnb_new_york_1318_2017-06-12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomslee_airbnb_new_york_1438_2017-07-12.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment11.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/price_satisfaction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_project.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,74 +25,79 @@
     <session id="-261372443">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="1" />
-          <entry key="py" value="7" />
+          <entry key="csv" value="10" />
+          <entry key="py" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="1" />
-          <entry key="Python" value="7" />
+          <entry key="CSV" value="10" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="87" />
+          <entry key="Python Console" value="373" />
           <entry key="dummy" value="27" />
-          <entry key="py" value="4374" />
+          <entry key="py" value="8537" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="4461" />
+          <entry key="PLAIN_TEXT" value="34" />
+          <entry key="Python" value="8910" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/final_project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+            <state relative-caret-position="-2806">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding>
-                <marker date="1543814934916" expanded="true" signature="273:278" ph="..." />
-                <marker date="1543814934916" expanded="true" signature="1279:1280" ph="..." />
-                <marker date="1543814934916" expanded="true" signature="1291:1296" ph="..." />
-                <marker date="1543814934916" expanded="true" signature="1379:1466" ph="..." />
+                <marker date="1544601910816" expanded="true" signature="167:169" ph="..." />
+                <marker date="1544601910816" expanded="true" signature="277:278" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment11.py">
+        <entry file="file://D:/Python/Lib/encodings/cp1252.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-              <folding>
-                <element signature="e#268#279#0" expanded="true" />
-                <marker date="1543783850201" expanded="true" signature="1396:1650" ph="..." />
-                <marker date="1543783850201" expanded="true" signature="2288:2877" ph="..." />
-                <marker date="1543783850201" expanded="true" signature="2921:2926" ph="..." />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tomslee_airbnb_brno_1500_2017-07-20.csv">
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        <entry file="file://$PROJECT_DIR$/tomslee_airbnb_new_york_1438_2017-07-12.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_final_program.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -103,6 +115,18 @@
     <findStrings>
       <find>450</find>
       <find>4504049</find>
+      <find>41363</find>
+      <find>41363259</find>
+      <find>4504</find>
+      <find>442603</find>
+      <find>44260343</find>
+      <find>8082029</find>
+      <find>3411523</find>
+      <find>413632</find>
+      <find>1741827</find>
+      <find>99070</find>
+      <find>99070,14</find>
+      <find>000020E61000000CB1FA230C7F52C0D5E940D653</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,6 +140,8 @@
         <option value="$PROJECT_DIR$/assignment11.py" />
         <option value="$PROJECT_DIR$/host_listings.py" />
         <option value="$PROJECT_DIR$/price_satisfaction.py" />
+        <option value="$PROJECT_DIR$/iris_flowers.py" />
+        <option value="$PROJECT_DIR$/test_final_program.py" />
         <option value="$PROJECT_DIR$/final_project.py" />
       </list>
     </option>
@@ -132,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,11 +170,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSCI051p" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\PomonaCollege\FreshmenYear\cs51p_final" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\PomonaCollege\FreshmenYear\cs51p_final" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -225,28 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="price_satisfaction" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cs51p_final" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Documents\PomonaCollege\FreshmenYear\cs51p_final\final_project.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sorting_algorithms" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="iris_flowers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cs51p_final" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,7 +272,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorting_algorithms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iris_flowers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_final_program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cs51p_final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_final_program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,19 +303,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.price_satisfaction" />
       <item itemvalue="Python.assignment11" />
-      <item itemvalue="Python.sorting_algorithms" />
       <item itemvalue="Python.host_listings" />
       <item itemvalue="Python.final_project" />
+      <item itemvalue="Python.iris_flowers" />
+      <item itemvalue="Python.test_final_program" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.final_project" />
+        <item itemvalue="Python.test_final_program" />
+        <item itemvalue="Python.iris_flowers" />
         <item itemvalue="Python.assignment11" />
         <item itemvalue="Python.host_listings" />
-        <item itemvalue="Python.price_satisfaction" />
-        <item itemvalue="Python.sorting_algorithms" />
       </list>
     </recent_temporary>
   </component>
@@ -295,26 +330,43 @@
       <option name="presentableId" value="Default" />
       <updated>1543558399643</updated>
     </task>
+    <task id="LOCAL-00001" summary="partII">
+      <created>1543819440522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543819440523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20687576" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20687576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" weight="0.3295964" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3295964" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4147982" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49939686" visible="true" weight="0.23542601" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38340807" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295964" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295964" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50060314" side_tool="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49939686" weight="0.3295964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -342,44 +394,59 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="partII" />
+    <option name="LAST_COMMIT_MESSAGE" value="partII" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/host_listings.py" />
+    <entry file="file://$PROJECT_DIR$/tomslee_airbnb_brno_0632_2016-10-31.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tomslee_airbnb_brno_1258_2017-05-14.csv">
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="211">
+          <caret line="311" column="7" selection-start-line="311" selection-end-line="311" selection-end-column="7" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tomslee_airbnb_brno_1383_2017-06-24.csv">
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="208">
+          <caret line="322" column="7" selection-start-line="322" selection-end-line="322" selection-end-column="7" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/sorting_algorithms2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="340">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sorting_algorithms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        <state relative-caret-position="800">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
           <folding>
             <marker date="1543740634983" expanded="true" signature="720:725" ph="..." />
-            <marker date="1543740634983" expanded="true" signature="720:1035" ph="..." />
-            <marker date="1543740634983" expanded="true" signature="1108:1113" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/host_listings.py">
+    <entry file="file://$PROJECT_DIR$/iris_flowers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tomslee_airbnb_brno_1500_2017-07-20.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="200">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="1420">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
           <folding>
             <element signature="e#268#279#0" expanded="true" />
             <marker date="1543783850201" expanded="true" signature="1396:1650" ph="..." />
@@ -389,15 +456,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tomslee_airbnb_brno_1500_2017-07-20.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_final_program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/encodings/cp1252.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tomslee_airbnb_new_york_1438_2017-07-12.csv">
+      <provider editor-type-id="csv-text-editor">
+        <state>
+          <caret column="120" selection-start-column="120" selection-end-column="120" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/final_project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+        <state relative-caret-position="-2806">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding>
-            <marker date="1543814934916" expanded="true" signature="273:278" ph="..." />
-            <marker date="1543814934916" expanded="true" signature="1279:1280" ph="..." />
-            <marker date="1543814934916" expanded="true" signature="1291:1296" ph="..." />
-            <marker date="1543814934916" expanded="true" signature="1379:1466" ph="..." />
+            <marker date="1544601910816" expanded="true" signature="167:169" ph="..." />
+            <marker date="1544601910816" expanded="true" signature="277:278" ph="..." />
           </folding>
         </state>
       </provider>
